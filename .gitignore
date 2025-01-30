@@ -1,0 +1,18 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+
+# PyCharm 配置
+.idea/
+
+# VSCode 配置
+.vscode/
+
+# 日志和临时文件
+*.log
