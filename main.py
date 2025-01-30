@@ -1,6 +1,5 @@
 import process
 import system_info
-import utils
 
 def main():
     while True:
